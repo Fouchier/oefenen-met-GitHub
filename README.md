@@ -1,5 +1,5 @@
 # oefenen-met-GitHub
-Test Repo
+Testomgeving GitHub
 
 Week 1:
 De komende weken kennis ophalen/verversen
